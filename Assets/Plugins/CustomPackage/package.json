@@ -1,0 +1,11 @@
+{
+    "name": "com.[company-name].custom-package",
+    "displayName": "Custom Package",
+    "description": "This is an example of a custom package",
+    "version": "1.2.3",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "dependencies": {
+        "com.unity.test-framework": "1.1.20"
+    }
+}
